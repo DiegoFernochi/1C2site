@@ -1,0 +1,19 @@
+header{
+    background: #bbbbbb
+    padding: 20px0;/* epaço em cima e embaixo do cabeçalho - espaçamento interno*/
+}
+
+.caixa{
+    position: relativ;/*menu dentro da caixa*/
+    with: 940px;/*largura da caixa*/
+    nargin: 0 auto;
+}
+
+nav{
+    position:absolute;
+    top: 110px;
+   right: 0;
+
+}
+nav li{
+    display: 
